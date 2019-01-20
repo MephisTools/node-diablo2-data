@@ -51,3 +51,11 @@ item properties indexed by name
 ### itemProperties
 
 array of item properties
+
+### itemDataByName
+
+item data indexed by name
+
+### itemData
+
+array of item data properties

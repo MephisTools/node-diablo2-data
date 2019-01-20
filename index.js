@@ -25,7 +25,8 @@ module.exports = function (diabloVersion) {
     areas: loadCsv(`${__dirname}/data/${diabloVersion}/areas.txt`, ',', ['name', 'id']),
     skills: loadCsv(`${__dirname}/data/${diabloVersion}/skills.txt`, '\t'),
     objects: loadCsv(`${__dirname}/data/${diabloVersion}/objects.txt`, '\t'),
-    itemProperties: loadCsv(`${__dirname}/data/${diabloVersion}/item_properties.txt`, '|', ['Name', 'a', 'b', 'c'])
+    itemProperties: loadCsv(`${__dirname}/data/${diabloVersion}/item_properties.txt`, '|', ['statName', 'saveBits', 'saveParamBits', 'saveAdd']),
+    itemData: loadCsv(`${__dirname}/data/${diabloVersion}/item_data.txt`, '|', ['name', 'code', 'classificationString', 'width', 'height', 'stackable', 'usable', 'throwable'])
   }
 
   return diabloDataToNode(diabloData)
