@@ -15,10 +15,11 @@ For example it's often useful to :
 ## Example
 
 ```js
-const diabloData=require('diablo2-data')('pod_1.13d')
+const diabloData = require('diablo2-data')('pod_1.13d')
 
-console.log(diabloData.skills[50])
-console.log(diabloData.areas[101])
-console.log(diabloData.npcsByName['Akara'])
-console.log(diabloData.objectsByName['StoneTheta'])
+console.log(JSON.stringify(diabloData.skills[50]))
+console.log(JSON.stringify(diabloData.areas[101]))
+console.log(JSON.stringify(diabloData.npcsByName['Akara']))
+console.log(JSON.stringify(diabloData.objectsByName['StoneTheta']))
+console.log(JSON.stringify(diabloData.itemPropertiesByName['Maximum Damage']))
 ```

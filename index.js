@@ -1,12 +1,6 @@
 const diabloDataToNode = require('./lib/loader')
 
 const fs = require('fs')
-const csvjson = require('csvjson')
-
-function txtToJson (path, options) {
-  const data = fs.readFileSync(path, 'utf8')
-  return csvjson.toObject(data, options)
-}
 
 function loadCsv (path, propertiesDelimiter, customHeaders) {
   const data = fs.readFileSync(path, 'utf8')
@@ -27,8 +21,8 @@ function loadCsv (path, propertiesDelimiter, customHeaders) {
 
 module.exports = function (diabloVersion) {
   const diabloData = {
-    npcs: txtToJson(`${__dirname}/data/${diabloVersion}/monster_names.txt`),
-    areas: txtToJson(`${__dirname}/data/${diabloVersion}/areas.txt`),
+    npcs: loadCsv(`${__dirname}/data/${diabloVersion}/monster_names.txt`, '\t', ['name']),
+    areas: loadCsv(`${__dirname}/data/${diabloVersion}/areas.txt`, ',', ['name', 'id']),
     skills: loadCsv(`${__dirname}/data/${diabloVersion}/skills.txt`, '\t'),
     objects: loadCsv(`${__dirname}/data/${diabloVersion}/objects.txt`, '\t'),
     itemProperties: loadCsv(`${__dirname}/data/${diabloVersion}/item_properties.txt`, '|', ['Name', 'a', 'b', 'c'])
