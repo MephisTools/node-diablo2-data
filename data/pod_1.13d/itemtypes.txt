@@ -1,0 +1,93 @@
+ItemType	Code	Order	Equiv1	Equiv2	Identify	Repair	Mods	Body	BodyLoc1	BodyLoc2	Shoots	Quiver	Throwable	Reload	ReEquip	AutoStack	Magic	Rare	Normal	Charm	Gem	Beltable	MaxSock1	MaxSock25	MaxSock40	TreasureClass	Rarity	StaffMods	CostFormula	Class	VarInvGfx	InvGfx1	InvGfx2	InvGfx3	InvGfx4	InvGfx5	InvGfx6	StorePage
+None		0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+None		0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Shield	shie	0	shld		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	3	4	0	3		1		0							armo
+Armor	tors	0	armo		1	1	1	1	tors	tors			0	0	0	0	0	0	0	0	0	0	3	4	6	0	3		1		0							armo
+Gold	gold	0	misc		0	0	0	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							
+Bow Quiver	bowq	0	misl		0	0	0	1	rarm	larm		bow	0	1	0	1	0	0	1	0	0	0	0	0	0	0	3		0		0							misc
+Crossbow Quiver	xboq	0	misl		0	0	0	1	rarm	larm		xbow	0	1	0	1	0	0	1	0	0	0	0	0	0	0	3		0		0							misc
+Player Body Part	play	0	misc		0	0	1	0					0	0	0	0	0	0	0	1	0	0	0	0	0	0	3		0		0							misc
+Herb	herb	0	misc		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							misc
+Potion	poti	0	misc		0	0	1	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc
+Ring	ring	0	misc		1	0	1	1	rrin	lrin			0	0	0	0	1	0	0	0	0	0	0	0	0	0	3		0		5	invrin1	invrin2	invrin3	invrin4	invrin5		mag
+Elixir	elix	0	misc		0	0	0	0					0	0	0	0	0	0	0	0	0	1	0	0	0	0	3		0		0							misc
+Amulet	amul	0	misc		1	0	1	1	neck	neck			0	0	0	0	1	0	0	0	0	0	0	0	0	0	3		0		3	invamu1	invamu2	invamu3				mag
+Charm	char	0	misc		0	0	1	0					0	0	0	0	1	0	0	1	0	0	0	0	0	0	3		0		3	invch1	invch4	invch7				mag
+Not Used		0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Boots	boot	0	armo		1	1	1	1	feet	feet			0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		1		0							armo
+Gloves	glov	0	armo		1	1	1	1	glov	glov			0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		1		0							armo
+Not Used		0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Book	book	0	misc		0	0	1	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc
+Belt	belt	0	armo		1	1	1	1	belt	belt			0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		1		0							armo
+Gem	gem	0	sock		0	0	1	0					0	0	0	0	0	0	1	0	1	0	0	0	0	0	3		0		0							misc
+Torch	torc	0	misc		0	0	0	1					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc
+Scroll	scro	0	misc		0	0	1	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc
+Not Used		0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Scepter	scep	0	rod		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	5	6	0	1	pal	0		0							weap
+Wand	wand	0	rod		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	2	2	2	0	1	nec	0		0							weap
+Staff	staf	0	rod		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	5	6	6	0	1	sor	0		0							weap
+Bow	bow	0	miss		1	0	1	1	rarm	larm	bowq		0	0	0	0	0	0	0	0	0	0	3	4	5	1	3		0		0							weap
+Axe	axe	0	mele		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	4	5	6	0	3		0		0							weap
+Club	club	0	blun		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	4	6	0	3		0		0							weap
+Sword	swor	0	mele		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	4	5	0	3		0		0							weap
+Hammer	hamm	0	blun		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	4	6	0	3		0		0							weap
+Knife	knif	0	mele		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	2	3	3	0	3		0		0							weap
+Spear	spea	0	mele		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	4	4	0	3		0		0							weap
+Polearm	pole	0	mele		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	4	4	0	3		0		0							weap
+Crossbow	xbow	0	miss		1	1	1	1	rarm	larm	xboq		0	0	0	0	0	0	0	0	0	0	3	4	6	0	3		0		0							weap
+Mace	mace	0	blun		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	4	6	0	3		0		0							weap
+Helm	helm	0	armo		1	1	1	1	head	head			0	0	0	0	0	0	0	0	0	0	2	2	3	0	3		1		0							armo
+Missile Potion	tpot	0	thro		0	1	0	1	rarm	larm			1	1	1	1	0	0	1	0	0	0	0	0	0	0	3		0		0							misc
+Quest	ques	0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Body Part	body	0	misc		0	0	1	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		2		0							misc
+Key	key	0	misc		0	0	0	0					0	0	0	1	0	0	1	0	0	0	0	0	0	0	3		0		0							misc
+Throwing Knife	tkni	0	comb	knif	1	1	1	1	rarm	larm			1	1	1	1	0	0	0	0	0	0	0	0	0	0	3		0		0							misc
+Throwing Axe	taxe	0	comb	axe	1	1	1	1	rarm	larm			1	1	1	1	0	0	0	0	0	0	0	0	0	0	3		0		0							misc
+Javelin	jave	0	comb	spea	1	1	1	1	rarm	larm			1	1	1	1	0	0	0	0	0	0	0	0	0	0	3		0		0							misc
+Weapon	weap	0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	1	3		0		0							
+Melee Weapon	mele	0	weap		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	1	3		0		0							
+Missile Weapon	miss	0	weap		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Thrown Weapon	thro	0	weap		0	0	0	0					1	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Combo Weapon	comb	0	mele	thro	0	0	0	0					1	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Any Armor	armo	0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	1	3		0		0							
+Any Shield	shld	0	armo	seco	0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Miscellaneous	misc	0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Socket Filler	sock	0	misc		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Second Hand	seco	0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Staves And Rods	rod	0	blun		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Missile	misl	0	misc		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Blunt	blun	0	mele		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Expansion																																						
+Jewel	jewl	0	sock		1	0	1	0					0	0	0	0	1	0	0	0	1	0	0	0	0	0	3		0		6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc
+Class Specific	clas	0			0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							
+Amazon Item	amaz	0	clas		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	1		0	ama	0							
+Barbarian Item	barb	0	clas		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	1		0	bar	0							
+Necromancer Item	necr	0	clas		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	1		0	nec	0							
+Paladin Item	pala	0	clas		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	1		0	pal	0							
+Sorceress Item	sorc	0	clas		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	1		0	sor	0							
+Assassin Item	assn	0	clas		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	2		0	ass	0							
+Druid Item	drui	0	clas		0	0	0	0					0	0	0	0	0	0	0	0	0	0	0	0	0	0	1		0	dru	0							
+Hand to Hand	h2h	0	mele	assn	1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	2	3	3	0	2		0	ass	0							weap
+Orb	orb	0	weap	sorc	1	1	1	1	rarm	larm			0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	sor	0	sor	0							mag
+Voodoo Heads	head	0	shld	necr	1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	nec	0	nec	0							mag
+Auric Shields	ashd	0	shld	pala	1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	4	4	0	1		0	pal	0							armo
+Primal Helm	phlm	0	helm	barb	1	1	1	1	head	head			0	0	0	0	0	0	0	0	0	0	2	3	3	0	1	bar	0	bar	0							armo
+Pelt	pelt	0	helm	drui	1	1	1	1	head	head			0	0	0	0	0	0	0	0	0	0	2	3	3	0	1	dru	0	dru	0							armo
+Cloak	cloa	0	tors	assn	1	1	1	1	tors	tors			0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	ass	0	ass	0							armo
+Rune	rune	0	sock		0	0	1	0					0	0	0	0	0	0	1	0	0	0	0	0	0	0	3		0		0							misc
+Circlet	circ	0	helm		1	1	1	1	head	head			0	0	0	0	1	0	0	0	0	0	1	1	1	0	3		1		0							armo
+Healing Potion	hpot	0	poti		0	0	0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc
+Mana Potion	mpot	0	poti		0	0	0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc
+Rejuv Potion	rpot	0	hpot	mpot	0	0	0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc
+Stamina Potion	spot	0	poti		0	0	0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc
+Antidote Potion	apot	0	poti		0	0	0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc
+Thawing Potion	wpot	0	poti		0	0	0	0					0	0	0	0	0	0	1	0	0	1	0	0	0	0	3		0		0							misc
+Small Charm	scha	0	char		0	0	0	0					0	0	0	0	1	0	0	1	0	0	0	0	0	0	3		0		3	invch1	invch4	invch7				mag
+Medium Charm	mcha	0	char		0	0	0	0					0	0	0	0	1	0	0	1	0	0	0	0	0	0	3		0		3	invch2	invch5	invch8				mag
+Large Charm	lcha	0	char		0	0	0	0					0	0	0	0	1	0	0	1	0	0	0	0	0	0	3		0		3	invch3	invch6	invch9				mag
+Amazon Bow	abow	0	bow	amaz	1	0	1	1	rarm	larm	bowq		0	0	0	0	0	0	0	0	0	0	3	4	5	1	1		0	ama	0							weap
+Amazon Spear	aspe	0	spea	amaz	1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	3	4	4	0	1		0	ama	0							weap
+Amazon Javelin	ajav	0	jave	amaz	1	1	1	1	rarm	larm			1	1	1	1	0	0	0	0	0	0	0	0	0	0	1		0	ama	0							misc
+Hand to Hand 2	h2h2	0	h2h		1	1	1	1	rarm	larm			0	0	0	0	0	0	0	0	0	0	2	3	3	0	2	ass	0	ass	0							weap
+Magic Bow Quiv	mboq	0	bowq		1	0	1	1	rarm	larm		bow	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							misc
+Magic Xbow Quiv	mxbq	0	xboq		1	0	1	1	rarm	larm		xbow	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3		0		0							misc

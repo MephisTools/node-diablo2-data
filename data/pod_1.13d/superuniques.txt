@@ -1,0 +1,68 @@
+Name	Class	Mod1	Mod2	Mod3	MinGrp	MaxGrp	EClass	AutoPos	Stacks
+Bishibosh	58	8	9	0	2	2	0	1	0
+Bonebreak	0	5	8	0	5	5	0	1	0
+Coldcrow	160	18	0	0	4	4	0	1	0
+Rakanishu	20	17	6	0	8	8	0	0	0
+Treehead WoodFist	24	5	6	0	2	2	0	1	0
+Griswold	365	7	0	0	0	0	0	1	0
+The Countess	45	9	0	0	6	6	0	1	0
+Pitspawn Fouldog	11	7	18	0	4	4	0	1	0
+Flamespike the Crawler	66	9	7	0	6	6	0	1	0
+Boneash	276	8	5	18	0	0	0	1	0
+Radament	229	6	0	0	3	3	0	1	0
+Bloodwitch the Wild	83	5	7	0	5	5	0	1	0
+Fangskin	75	17	6	0	4	4	0	1	0
+Beetleburst	92	8	0	0	3	3	0	1	0
+Leatherarm	97	5	18	0	5	5	0	1	0
+Coldworm the Burrower	284	18	8	0	0	0	0	0	0
+Fire Eye	31	9	6	0	3	3	0	1	0
+Dark Elder	9	6	8	0	4	4	0	1	0
+The Summoner	250	5	6	0	0	0	0	1	0
+Ancient Kaa the Soulless	103	25	5	17	3	3	0	1	0
+The Smith	402	5	0	0	0	0	0	1	0
+Web Mage the Burning	125	5	7	0	5	5	0	1	0
+Witch Doctor Endugu	281	8	9	0	6	6	0	1	0
+Stormtree	129	6	17	0	4	4	0	1	0
+Sarina the Battlemaid	47	6	27	0	9	9	0	1	0
+Icehawk Riftwing	138	18	26	0	7	7	0	1	0
+Ismail Vilehand	345	6	7	0	2	2	0	1	0
+Geleb Flamefinger	346	5	9	0	2	2	0	1	0
+Bremm Sparkfist	347	30	18	0	2	2	0	1	0
+Toorc Icefist	345	18	28	0	0	0	0	1	0
+Wyand Voidfinger	346	25	26	0	0	0	0	1	0
+Maffer Dragonhand	347	5	6	0	0	0	0	1	0
+Winged Death	362	5	7	0	7	7	0	1	0
+The Tormentor	120	8	9	0	5	5	0	1	0
+Taintbreeder	299	6	0	0	6	6	0	1	0
+Riftwraith the Cannibal	308	18	26	0	8	8	0	1	0
+Infector of Souls	362	6	27	0	9	9	0	1	0
+Lord De Seis	312	5	30	24	5	5	0	1	0
+Grand Vizier of Chaos	306	5	9	0	9	9	0	1	0
+The Cow King	391	8	17	0	6	6	0	1	0
+Corpsefire	5	27	0	0	5	5	0	1	0
+The Feature Creep	409	27	30	0	0	0	0	1	0
+Expansion									
+Siege Boss	43	5	0	0	0	0	1	0	1
+Ancient Barbarian 1	104	0	0	0	0	0	1	0	1
+Ancient Barbarian 2	105	0	0	0	0	0	1	0	1
+Ancient Barbarian 3	106	0	0	0	0	0	1	0	1
+Axe Dweller	72	8	9	0	2	2	1	0	0
+Bonesaw Breaker	1	5	8	0	5	5	1	0	0
+Dac Farren	58	18	0	0	4	4	1	0	0
+Megaflow Rectifier	17	1	6	0	8	8	1	0	0
+Eyeback Unleashed	93	5	6	0	2	2	1	0	0
+Threash Socket	7	7	0	0	0	0	1	0	0
+Pindleskin	4	9	0	0	6	6	1	0	0
+Snapchip Shatter	65	7	18	0	4	4	1	0	0
+Anodized Elite	36	9	7	0	6	6	1	0	0
+Vinvear Molech	39	8	5	18	0	0	1	0	0
+Sharp Tooth Sayer	45	6	0	0	3	3	1	0	0
+Magma Torquer	60	5	7	0	5	5	1	0	0
+Blaze Ripper	97	17	6	0	4	4	1	0	0
+Frozenstein	13	18	25	0	5	6	1	0	0
+Nihlathak	90	0	0	0	0	0	1	0	1
+Baal Subject 1	62	9	0	0	5	5	0	0	1
+Baal Subject 2	105	23	0	0	3	3	0	0	1
+Baal Subject 3	121	17	0	0	5	5	1	0	1
+Baal Subject 4	122	6	0	0	8	8	1	0	1
+Baal Subject 5	135	27	0	0	5	5	1	0	1

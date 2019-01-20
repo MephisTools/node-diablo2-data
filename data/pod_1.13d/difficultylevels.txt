@@ -1,0 +1,4 @@
+Name	ResistPenalty	DeathExpPenalty	UberCodeOddsNormal	UberCodeOddsGood	UltraCodeOddsNormal	UltraCodeOddsGood	MonsterSkillBonus	MonsterFreezeDivisor	MonsterColdDivisor	AiCurseDivisor	LifeStealDivisor	ManaStealDivisor	ExtraUniqueMonsters
+Normal	0	0	0	0	0	0	0	1	1	1	1	1	0
+Nightmare	-40	5	10	20	0	0	3	2	2	2	2	2	1
+Hell	-100	10	20	40	30	40	7	4	4	4	2	2	2

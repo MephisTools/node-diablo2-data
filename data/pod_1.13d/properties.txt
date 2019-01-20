@@ -1,0 +1,246 @@
+Code	Done	ModFuncOffset	Description	Param	Min	Max	Additional Notes
+ac	1	ARMORCLASS					none
+ac-miss	1	ARMORCLASS_VS_MISSILE					none
+ac-hth	1	ARMORCLASS_VS_HTH					none
+red-dmg	1	NORMAL_DAMAGE_REDUCTION					none
+red-dmg%	1	NORMAL_DAMAGE_REDUCTION_PCT					none
+ac%	1	ARMOR_PERCENT					none
+red-mag	1	MAGIC_DAMAGE_REDUCTION					none
+str	1	STRENGTH					none
+dex	1	DEXTERITY					none
+vit	1	VITALITY					none
+enr	1	ENERGY					none
+mana	1	MAXMANA 					none
+mana%	1	MAXMANA_PERCENT 					none
+hp	1	MAXHP 					none
+hp%	1	MAXHP_PERCENT					none
+att	1	TOHIT					none
+block	1	TOBLOCK					none
+cold-min	1	COLDMINDAM					none
+cold-max	1	COLDMAXDAM					none
+cold-len	1	COLDLENGTH					none
+fire-min	1	FIREMINDAM					none
+fire-max	1	FIREMAXDAM					none
+ltng-min	1	LIGHTMINDAM					none
+ltng-max	1	LIGHTMAXDAM					none
+pois-min	1	POISONMINDAM					none
+pois-max	1	POISONMAXDAM					none
+pois-len	1	POISONLENGTH					none
+dmg-min	1	MINDAMAGE					none
+dmg-max	1	MAXDAMAGE					none
+dmg%	1	WEAPONDAMAGE_PERCENT					none
+dmg-to-mana	1	DAMAGETOMANA					none
+res-fire	1	FIRERESIST					none
+res-fire-max	1	MAXFIRERESIST					none
+res-ltng	1	LIGHTRESIST					none
+res-ltng-max	1	MAXLIGHTRESIST					none
+res-cold	1	COLDRESIST					none
+res-cold-max	1	MAXCOLDRESIST					none
+res-mag	1	MAGICRESIST					none
+res-mag-max	1	MAXMAGICRESIST					none
+res-pois	1	POISONRESIST					none
+res-pois-max	1	MAXPOISONRESIST					none
+res-all	1	RESISTALL					none
+res-all-max	1	MAXRESISTALL					none
+abs-fire%	1	ASBORBFIRE_PERCENT					none
+abs-fire	1	ASBORBFIRE					none
+abs-ltng%	1	ASBORBLIGHT_PERCENT					none
+abs-ltng	1	ASBORBLIGHT					none
+abs-mag%	1	ASBORBMAGIC_PERCENT					none
+abs-mag	1	ASBORBMAGIC					none
+abs-cold%	1	ASBORBCOLD_PERCENT					none
+abs-cold	1	ASBORBCOLD					none
+dur	1	MAXDURABILITY					none
+dur%	1	MAXDURABILITY_PERCENT					none
+regen	1	HITPOINTS_DELTA					none
+thorns	1	ATTACKERTAKES_DAMAGE					none
+swing1	1	FASTATTACKRATE					none
+swing2	1	FASTERATTACKRATE					none
+swing3	1	FASTESTATTACKRATE					none
+gold%	1	GOLDBONUS					none
+mag%	1	MAGICBONUS					none
+knock	1	KNOCKBACK					none
+regen-stam	1	REGENSTAMINA_PERCENT					none
+regen-mana	1	REGENMANA_PERCENT					none
+stam	1	BASESTAMINA					none
+time	1	TIMEDURATION					none
+manasteal	1	MANASTEAL					none
+lifesteal	1	LIFESTEAL					none
+ama	1	ADDAMASKILLPOINTS					none
+pal	1	ADDPALSKILLPOINTS					none
+nec	1	ADDNECSKILLPOINTS					none
+sor	1	ADDSORSKILLPOINTS					none
+bar	1	ADDBARSKILLPOINTS					none
+herb	1	DOUBLEHERBDURATION					none
+light	1	LIGHTRADIUS					none
+color	1	LIGHTCOLOR					none
+ease	1	REQ_PERCENT					none
+move1	1	FASTMOVEVELOCITY					none
+move2	1	FASTERMOVEVELOCITY					none
+move3	1	FASTESTMOVEVELOCITY					none
+balance1	1	FASTGETHITRATE					none
+balance2	1	FASTERGETHITRATE					none
+balance3	1	FASTESTGETHITRATE					none
+block1	1	FASTBLOCKRATE					none
+block2	1	FASTERBLOCKRATE					none
+block3	1	FASTESTBLOCKRATE					none
+cast1	1	FASTCASTRATE					none
+cast2	1	FASTERCASTRATE					none
+cast3	1	FASTESTCASTRATE					none
+res-pois-len	1	POISONLENGTHRESIST					none
+dmg	1	NORMALDAMAGE					none
+howl	1	HOWL					none
+stupidity	1	STUPIDITY					none
+ignore-ac	1	IGNORETARGETAC					none
+reduce-ac	1	FRACTIONALTARGETAC					none
+noheal	1	PREVENTHEAL					none
+half-freeze	1	HALFFREEZEDURATION					none
+att%	1	TOHIT_PERCENT					none
+dmg-ac	1	DAMAGETARGETAC					none
+dmg-demon	1	DEMONDAMAGE_PERCENT					none
+dmg-undead	1	UNDEADDAMAGE_PERCENT					none
+att-demon	1	DEMON_TOHIT					none
+att-undead	1	UNDEAD_TOHIT					none
+throw	1	THROWABLE					none
+fireskill	1	FIRESKILL					none
+allskills	1	ALLSKILLS					none
+light-thorns	1	ATTACKERTAKESLIGHT_DAMAGE					none
+freeze	1	FREEZE					none
+openwounds	1	OPENWOUNDS					none
+crush	1	CRUSHINGBLOW					none
+kick	1	KICKDAMAGE					none
+mana-kill	1	MANAAFTERKILL					none
+demon-heal	1	HEALAFTERDEMONKILL					none
+bloody	1	EXTRABLOOD					none
+deadly	1	DEADLYSTRIKE					none
+slow	1	SLOW					none
+nofreeze	1	CANNOTBEFROZEN					none
+stamdrain	1	STAMINADRAINPCT					none
+reanimate	1	REANIMATE					none
+pierce	1	PIERCE					none
+magicarrow	1	MAGICARROW					none
+explosivearrow	1	EXPLOSIVEARROW					none
+Expansion							
+dru	1	ADDDRUSKILLPOINTS	All Druid Skills				none
+ass	1	ADDASSSKILLPOINTS	All Assassin Skills				none
+skill	1	ADDSKILL					none
+skilltab	1	ADDTAB					none
+passives	1	ADDSKILL_PASSIVES					none
+att-skill	1	SKILL_ON_ATTACK	Proc Skill on Swing	Skill #	% Chance		none
+hit-skill	1	SKILL_ON_HIT	Proc Skill on Hit	Skill #	% Chance		none
+gethit-skill	1	SKILL_ON_GETHIT	Proc Skill on Get Hit	Skill #	% Chance		none
+gembonus		GEMBONUS	Increase chance of finding Gems				none
+regen-dur		DURABILITY_OVER_TIME					none
+fire-fx		FIRE_EFFECTS					none
+ltng-fx		LIGHTNING_EFFECTS					none
+sock	1	SOCKETS					none
+dmg-fire	1	FIRE_DAMAGE_MINMAX	Fire Damage		Min	Max	none
+dmg-ltng	1	LIGHT_DAMAGE_MINMAX	Lightning Damage		Min	Max	none
+dmg-mag	1	MAGIC_DAMAGE_MINMAX	Magic Damge		Min	Max	none
+dmg-cold	1	COLD_DAMAGE_MINMAXLEN	Cold Damage	Length (Frames)	Min	Max	none
+dmg-pois	1	POIS_DAMAGE_MINMAXLEN	Poison Damage	Length (Frames)	Min	Max	none
+dmg-throw	1	THROW_DAMAGE_MINMAX	Throwing Damage		Min	Max	none
+dmg-norm	1	DAMAGE_MINMAX	Normal Damage Modifier		Min	Max	none
+ac/lvl	1	STATS_ITEM_ARMOR_PERLEVEL	AC per Player Level	ac/lvl (8ths)			none
+ac%/lvl	1	STATS_ITEM_ARMORPERCENT_PERLEVEL	AC% per Player Level	ac%/lvl (8ths)			none
+hp/lvl	1	STATS_ITEM_HP_PERLEVEL	HP per Player Level	hp/lvl (8ths)			none
+mana/lvl	1	STATS_ITEM_MANA_PERLEVEL	Mana per Player Level	(8ths)			none
+dmg/lvl	1	STATS_ITEM_MAXDAMAGE_PERLEVEL	Max Damage per Player Level	(8ths)			none
+dmg%/lvl	1	STATS_ITEM_MAXDAMAGE_PERCENT_PERLEVEL	Max Damage % per Player Level	(8ths)			none
+str/lvl	1	STATS_ITEM_STRENGTH_PERLEVEL	Strength per Player Level	(8ths)			none
+dex/lvl	1	STATS_ITEM_DEXTERITY_PERLEVEL	Dexterity per Player Level	(8ths)			none
+enr/lvl	1	STATS_ITEM_ENERGY_PERLEVEL	Energy per Player Level	(8ths)			none
+vit/lvl	1	STATS_ITEM_VITALITY_PERLEVEL	Vitality per Player Level	(8ths)			none
+att/lvl	1	STATS_ITEM_TOHIT_PERLEVEL	Attack per Player Level	att/lvl (1)			none
+att%/lvl	1	STATS_ITEM_TOHITPERCENT_PERLEVEL	Attack% per Player Level	att%/lvl (8ths)			none
+dmg-cold/lvl	1	STATS_ITEM_COLD_DAMAGEMAX_PERLEVEL	Max Cold Damage per Player Level	(8ths)			none
+dmg-fire/lvl	1	STATS_ITEM_FIRE_DAMAGEMAX_PERLEVEL	Max Fire Damage per Player Level	(8ths)			none
+dmg-ltng/lvl	1	STATS_ITEM_LTNG_DAMAGEMAX_PERLEVEL	Max Lightning Dmg per Player Level	(8ths)			none
+dmg-pois/lvl	1	STATS_ITEM_POIS_DAMAGEMAX_PERLEVEL	Max Poison Dmg per Player Level	(8ths)			none
+res-cold/lvl	1	STATS_ITEM_RESIST_COLD_PERLEVEL	Resist Cold% per Player Level	(8ths)			none
+res-fire/lvl	1	STATS_ITEM_RESIST_FIRE_PERLEVEL	Resist Fire% per Player Level	(8ths)			none
+res-ltng/lvl	1	STATS_ITEM_RESIST_LTNG_PERLEVEL	Resist Lightning% per Player Level	(8ths)			none
+res-pois/lvl	1	STATS_ITEM_RESIST_POIS_PERLEVEL	Resist Poison% per Player Level	(8ths)			none
+abs-cold/lvl	1	STATS_ITEM_ABSORB_COLD_PERLEVEL	Absorb Cold Dmg per Player Level	(8ths)			none
+abs-fire/lvl	1	STATS_ITEM_ABSORB_FIRE_PERLEVEL	Absorb Fire Dmg per Player Level	(8ths)			none
+abs-ltng/lvl	1	STATS_ITEM_ABSORB_LTNG_PERLEVEL	Absorb Lightning Dmg per Player Lvl	(8ths)			none
+abs-pois/lvl	1	STATS_ITEM_ABSORB_POIS_PERLEVEL	Absorb Poison Dmg per Player Lvl	(8ths)			none
+thorns/lvl	1	STATS_ITEM_THORNS_PERLEVEL	Damage to Attacker per Player Lvl	(8ths)			none
+gold%/lvl	1	STATS_ITEM_FIND_GOLD_PERLEVEL	+% Gold Dropped per Player Lvl	(8ths)			none
+mag%/lvl	1	STATS_ITEM_FIND_MAGIC_PERLEVEL	+% Magical per Player Lvl	(8ths)			none
+regen-stam/lvl	1	STATS_ITEM_REGENSTAMINA_PERLEVEL	+% Stamina Regeneration per Player Lvl	(8ths)			none
+stam/lvl	1	STATS_ITEM_STAMINA_PERLEVEL	Stamina per Player Level	(8ths)			none
+dmg-dem/lvl	1	STATS_ITEM_DAMAGE_DEMON_PERLEVEL	Damage to Demons % per Player Level	(8ths)			none
+dmg-und/lvl	1	STATS_ITEM_DAMAGE_UNDEAD_PERLEVEL	Damage to Undead % per Player Level	(8ths)			none
+att-dem/lvl	1	STATS_ITEM_TOHIT_DEMON_PERLEVEL	Attack Demons + per Player Level	att/lvl (1)			none
+att-und/lvl	1	STATS_ITEM_TOHIT_UNDEAD_PERLEVEL	Attack Undead + per Player Level	att/lvl (1)			none
+crush/lvl	1	STATS_ITEM_CRUSHINGBLOW_PERLEVEL	+% Chance of Crushing Blow per Player Level	(8ths)			none
+wounds/lvl	1	STATS_ITEM_OPENWOUNDS_PERLEVEL	+% Chance of Open Wounds per Player Level	(8ths)			none
+kick/lvl	1	STATS_ITEM_KICK_DAMAGE_PERLEVEL	Kick Damage per Player Level	(8ths)			none
+deadly/lvl	1	STATS_ITEM_DEADLYSTRIKE_PERLEVEL	+% Chance of Deadly Strike per Player Level	(8ths)			none
+gems%/lvl	1	STATS_ITEM_FIND_GEMS_PERLEVEL	+% Chance of finding Gems per Player Level	(8ths)			none
+rep-dur	1	STATS_ITEM_REPLENISH_DURABILITY	regenerates durability	speed (see note)			regenerates 1 durability point per 100/lvl seconds
+rep-quant	1	STATS_ITEM_REPLENISH_QUANTITY	regenerates quantity	speed (see note)			regenerates 1 quantity per 100/lvl seconds
+stack	1	STATS_ITEM_EXTRA_STACK	Increased stack size		min count	max count	none
+item%		STATS_ITEM_FIND_ITEM	+% Chance of finding item	item type	min chance	max chance	random chance from min to max is assigned to item
+dmg-slash		STATS_ITEM_SLASH_DAMAGE	Slashing Damage		min	max	random amount from min to max is assigned to item
+dmg-slash%		STATS_ITEM_SLASH_DAMAGE_PERCENT	Slashing Damage %		min %	max %	random amount from min to max is assigned to item
+dmg-crush		STATS_ITEM_CRUSH_DAMAGE	Crush Damage		min	max	random amount from min to max is assigned to item
+dmg-crush%		STATS_ITEM_CRUSH_DAMAGE_PERCENT	Crush Damage %		min %	max %	random amount from min to max is assigned to item
+dmg-thrust		STATS_ITEM_THRUST_DAMAGE	Thrust Damage		min	max	random amount from min to max is assigned to item
+dmg-thrust%		STATS_ITEM_THRUST_DAMAGE_PERCENT	Thrust Damage %		min %	max %	random amount from min to max is assigned to item
+abs-slash		STATS_ITEM_ABSORB_SLASH	Absorb Slashing Damage		min amt	max amt	random amount from min to max is assigned to item
+abs-crush		STATS_ITEM_ABSORB_CRUSH	Absorb Crushing Damage		min amt	max amt	random amount from min to max is assigned to item
+abs-thrust		STATS_ITEM_ABSORB_THRUST	Absorb Thrusting Damage		min amt	max amt	random amount from min to max is assigned to item
+abs-slash%		STATS_ITEM_ABSORB_SLASH_PERCENT	Absorb Slashing Damage %		min %	max %	random amount from min to max is assigned to item
+abs-crush%		STATS_ITEM_ABSORB_CRUSH_PERCENT	Absorb Crushing Damage %		min %	max %	random amount from min to max is assigned to item
+abs-thrust%		STATS_ITEM_ABSORB_THRUST_PERCENT	Absorb Thrusting Damage %		min %	max %	random amount from min to max is assigned to item
+ac/time	1	STATS_ITEM_ARMOR_BYTIME	"AC / time increment (0=day, 1=dusk, 2=night, 3=dawn)"	center period	min	max	"max at center period, min at opposite period, linear progression"
+ac%/time	1	STATS_ITEM_ARMORPERCENT_BYTIME	AC% / time increment (8 periods)	center period	min	max	"max at center period, min at opposite period, linear progression"
+hp/time	1	STATS_ITEM_HP_BYTIME	HP / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+mana/time	1	STATS_ITEM_MANA_BYTIME	Mana / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+dmg/time	1	STATS_ITEM_MAXDAMAGE_BYTIME	Max Damage / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+dmg%/time	1	STATS_ITEM_MAXDAMAGE_PERCENT_BYTIME	Max Damage % / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+str/time	1	STATS_ITEM_STRENGTH_BYTIME	Strength / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+dex/time	1	STATS_ITEM_DEXTERITY_BYTIME	Dexterity / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+enr/time	1	STATS_ITEM_ENERGY_BYTIME	Energy / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+vit/time	1	STATS_ITEM_VITALITY_BYTIME	Vitality / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+att/time	1	STATS_ITEM_TOHIT_BYTIME	To hit / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+att%/time	1	STATS_ITEM_TOHITPERCENT_BYTIME	To Hit % / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"
+dmg-cold/time	1	STATS_ITEM_COLD_DAMAGEMAX_BYTIME	Cold Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+dmg-fire/time	1	STATS_ITEM_FIRE_DAMAGEMAX_BYTIME	Fire Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+dmg-ltng/time	1	STATS_ITEM_LTNG_DAMAGEMAX_BYTIME	Lightning Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+dmg-pois/time	1	STATS_ITEM_POIS_DAMAGEMAX_BYTIME	Poison Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+res-cold/time	1	STATS_ITEM_RESIST_COLD_BYTIME	Resist Cold / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+res-fire/time	1	STATS_ITEM_RESIST_FIRE_BYTIME	Resist Fire / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+res-ltng/time	1	STATS_ITEM_RESIST_LTNG_BYTIME	Resist Lightning / time inc	center period	min	max	"max at center period, min at opposite period, linear progression"
+res-pois/time	1	STATS_ITEM_RESIST_POIS_BYTIME	Resist Poison / time inc	center period	min	max	"max at center period, min at opposite period, linear progression"
+abs-cold/time	1	STATS_ITEM_ABSORB_COLD_BYTIME	Absorb Cold / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+abs-fire/time	1	STATS_ITEM_ABSORB_FIRE_BYTIME	Absorb Fire / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+abs-ltng/time	1	STATS_ITEM_ABSORB_LTNG_BYTIME	Absorb Lightning / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+abs-pois/time	1	STATS_ITEM_ABSORB_POIS_BYTIME	Absorb Poison / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+gold%/time	1	STATS_ITEM_FIND_GOLD_BYTIME	Find Gold Amt % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+mag%/time	1	STATS_ITEM_FIND_MAGIC_BYTIME	Find Magic % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+regen-stam/time	1	STATS_ITEM_REGENSTAMINA_BYTIME	% / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+stam/time	1	STATS_ITEM_STAMINA_BYTIME	Stamina / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+dmg-dem/time	1	STATS_ITEM_DAMAGE_DEMON_BYTIME	Damage to Demons % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+dmg-und/time	1	STATS_ITEM_DAMAGE_UNDEAD_BYTIME	Damage to Undead % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+att-dem/time	1	STATS_ITEM_TOHIT_DEMON_BYTIME	To Hit Demons % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+att-und/time	1	STATS_ITEM_TOHIT_UNDEAD_BYTIME	To Hit Undead % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+crush/time	1	STATS_ITEM_CRUSHINGBLOW_BYTIME	% chance of Crushing Blow / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+wounds/time	1	STATS_ITEM_OPENWOUNDS_BYTIME	+% chance of Open Wounds / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+kick/time	1	STATS_ITEM_KICK_DAMAGE_BYTIME	Kick Damage / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+deadly/time	1	STATS_ITEM_DEADLYSTRIKE_BYTIME	+% chance of Deadly Strike / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+gems%/time		STATS_ITEM_FIND_GEMS_BYTIME	+% chance of finding Gems / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"
+pierce-cold		STATS_ITEM_PIERCE_COLD	Negates % of Enemy Cold Resistance		min	max	none
+pierce-fire		STATS_ITEM_PIERCE_FIRE	Negates % of Enemy Fire Resistance		min	max	none
+pierce-ltng		STATS_ITEM_PIERCE_LTNG	Negates % of Enemy Lightning Resistance		min	max	none
+pierce-pois		STATS_ITEM_PIERCE_POIS	Negates % of Enemy Poison Resistance		min	max	none
+dmg-mon		STATS_ITEM_DAMAGE_VS_MONSTER	Damage vs. specific Monster Type	monster	min	max	none
+dmg%-mon		STATS_ITEM_DAMAGE_PERCENT_VS_MONSTER	Damage % vs. specific Monster Type	monster	min	max	none
+att-mon		STATS_ITEM_TOHIT_VS_MONSTER	To Hit vs. specific Monster Type	monster	min	max	none
+att%-mon		STATS_ITEM_TOHIT_PERCENT_VS_MONSTER	To Hit % vs. specific Monster Type	monster	min	max	none
+ac-mon		STATS_ITEM_AC_VS_MONSTER	AC vs. specific Monster Type	monster	min	max	none
+ac%-mon		STATS_ITEM_AC_PERCENT_VS_MONSTER	AC% vs. specific Monster Type	monster	min	max	none
+indestruct	1	INDESTRUCTIBLE	Indestructible				none
+charged		STATS_ITEM_CHARGED_SKILL	Charged Skill	skill	level	charges	none

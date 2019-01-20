@@ -1,0 +1,170 @@
+Name	Rune Name	complete	server	itype1	itype2	itype3	itype4	itype5	itype6	etype1	etype2	etype3	Rune1	Rune2	Rune3	Rune4	Rune5	Rune6	T1Code1	T1Param1	T1Min1	T1Max1	T1Code2	T1Param2	T1Min2	T1Max2	T1Code3	T1Param3	T1Min3	T1Max3	T1Code4	T1Param4	T1Min4	T1Max4	T1Code5	T1Param5	T1Min5	T1Max5	T1Code6	T1Param6	T1Min6	T1Max6
+Runeword1	Ancient's Pledge	1	1	shld									r08	r09	r07				res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10								
+Runeword2	Armageddon	1	1	axe	club	pole	hamm						r11	r31	r32	r12	r11	r06	dmg%		185	185	att		300	300	swing2		20	20	lifesteal		3	3								
+Runeword3	Authority	1	1	helm									r33	r25	r22				ac%		100	100	res-all		5	5	allskills		1	1	str		20	20								
+Runeword4	The Beast	1	1	axe	club	hamm							r33	r03	r22	r23	r17		dmg%		200	200	crush		25	25	openwounds		25	25	dmg-undead		50	50	dmg-demon		50	50				
+Runeword5	Beauty	1	1	helm									r01	r08	r05				light		2	2	mag%		50	50	balance2		20	20												
+Runeword6	Black	1	1	club	hamm	mace							r16	r12	r02				dmg-undead		25	25	att-undead		50	50	manasteal		7	7	dmg%		133	133	lifesteal		7	7				
+Runeword7	Blood	1	1	spea	axe	swor							r31	r30	r01	r22			dmg%		175	175	openwounds		75	75	deadly		25	25	lifesteal		13	13	str		13	13				
+Runeword8	Bone	1	1	spea	wand								r17	r02					att-undead		200	200	dmg-undead		75	75	dmg%		180	180	manasteal		9	9	skilltab	7	4	4				
+Runeword9	Bramble	1	1	tors									r05	r08					ac%		47	47	res-fire		3	3	res-ltng		33	33	move1		10	10								
+Runeword10	Brand	1	1	scep	swor								r01	r15	r08	r06			light		1	1	dmg-fire		10	30	dmg%		100	100	res-cold		35	35								
+Runeword11	Breath of the Dying	1	1	weap									r31	r07	r24	r28	r09	r20	dmg%		100	100	dmg-cold		9	15	mana-kill		5	5												
+Runeword12	Broken Promise	1	1	weap									r07	r27	r14				pois-max		200	200	dmg-cold		6	11	att		250	250	dmg%		25	25								
+Runeword13	Call to Arms	1	1	weap									r10	r06	r10	r23			dmg%		77	77	ac		200	200	dex		15	15	thorns		21	21	att		200	200				
+Runeword14	Bound by Duty	1	1	tors									r03	r11	r01	r09			ac%		70	70	balance3		30	30	skilltab	11	2	2	hp		30	30								
+Runeword15	Chance	1	1	weap									r28	r08					mag%		50	50	gold%		100	100	stupidity		1	1	dmg%		42	42								
+Runeword16	Chaos	1	1	tors									r29	r09	r02	r13			ac%		80	80	res-fire		30	30	str		15	15	gethit-skill	38	50	7								
+Runeword17	Crescent Moon	1	1	axe	swor	pole							r02	r15	r22				dmg%		100	100	manasteal		7	7	swing3		30	30	att%		20	20								
+Runeword18	Darkness	1	1	mele									r07	r11	r25	r04	r10		dmg%		120	120	lifesteal		3	3	stupidity		1	1												
+Runeword19	Daylight	1	1	mele									r11	r03	r31				dmg%		120	120	light		3	3	manasteal		3	3	dmg-fire		33	99								
+Runeword20	Death	1	1	weap									r14	r20	r04	r07	r05		deadly		33	33	dmg%		133	133	noheal		1	1	dmg-pois	25	200	200	lifesteal		5	5				
+Runeword21	Deception	1	1	knif									r18	r14	r05				dmg-pois	100	52	52	manasteal		10	10	ignore-ac		1	1	dmg%		199	199	slow		50	50				
+Runeword22	Delirium	1	1	helm									r20	r09	r16				ac%		77	77	res-cold		44	44	res-fire		55	55	res-pois		66	66	res-ltng		3	3	regen		-3	-3
+Runeword23	Desire		1	helm									r28	r09	r06				res-pois	0	25	25																				
+Runeword24	Despair		1	mele									r21	r32	r17	r21	r09		res-pois	0	25	25																				
+Runeword25	Destruction		1	axe	club	hamm							r05	r08	r25	r11			res-pois	0	25	25																				
+Runeword26	Doomsayer		1	axe	club	hamm							r13	r30	r21	r06	r05	r10	res-pois	0	25	25																				
+Runeword27	Dragon		1	mele									r22	r04	r17	r05	r28		res-pois	0	25	25																				
+Runeword28	Dread		1	mele									r20	r01	r18	r15			res-pois	0	25	25																				
+Runeword29	Dream		1	helm									r08	r05					res-pois	0	25	25																				
+Runeword30	Duress		1	tors									r13	r22	r10				res-pois	0	25	25																				
+Runeword31	Edge		1	axe	swor	knif							r30	r09					res-pois	0	25	25																				
+Runeword32	Destiny's Daughter		1	helm									r04	r26	r01				res-pois	0	25	25																				
+Runeword33	Enigma		1	tors									r32	r30	r06				res-pois	0	25	25																				
+Runeword34	Enlightenment		1	helm									r10	r02					res-pois	0	25	25																				
+Runeword35	Envy		1	helm									r18	r03					res-pois	0	25	25																				
+Runeword36	Eternity		1	mele									r21	r01	r07	r20	r30		res-pois	0	25	25																				
+Runeword37	Exile's Path		1	shld									r07	r04	r03	r10			res-pois	0	25	25																				
+Runeword38	Faith		1	shld									r19	r32	r22	r08			res-pois	0	25	25																				
+Runeword39	Famine		1	axe	club								r02	r26	r02	r03	r20		res-pois	0	25	25																				
+Runeword40	Flickering Flame		1	swor									r21	r05	r07				res-pois	0	25	25																				
+Runeword41	Fortitude		1	club	hamm	mace	scep						r13	r05	r03				res-pois	0	25	25																				
+Runeword42	Fortune's Favor		1	knif									r05	r11	r29	r15	r26		res-pois	0	25	25																				
+Runeword43	Amity		1	shld									r13	r07					res-pois	0	25	25																				
+Runeword44	Fury		1	mele									r31	r17	r24				res-pois	0	25	25																				
+Runeword45	Gloom		1	axe									r25	r06	r13				res-pois	0	25	25																				
+Runeword46	Glory		1	mele									r23	r19	r07	r02			res-pois	0	25	25																				
+Runeword47	Widowmaker		1	miss									r17	r24	r02	r02			res-pois	0	25	25																				
+Runeword48	Hand of Justice		1	mace	scep								r18	r02	r33	r29	r22	r16	res-pois	0	25	25																				
+Runeword49	Harmony		1	tors									r12	r33	r15				res-pois	0	25	25																				
+Runeword50	Hatred		1	mele									r08	r10	r21	r16	r07		res-pois	0	25	25																				
+Runeword51	Heart of the Oak		1	staf	club								r01	r04	r05	r15			res-pois	0	25	25																				
+Runeword52	Heaven's Will		1	scep									r23	r15	r18	r13	r11	r18	res-pois	0	25	25																				
+Runeword53	Holy Tears		1	scep									r24	r08	r07	r25			res-pois	0	25	25																				
+Runeword54	Holy Thunder		1	scep									r07	r01	r02	r05			res-pois	0	25	25																				
+Runeword55	Honor		1	mele									r06	r09	r12	r08	r08		res-pois	0	25	25																				
+Runeword56	Dweomer		1	staf									r04	r07	r03	r08			res-pois	0	25	25																				
+Runeword57	Humility		1	helm									r06	r13	r01				res-pois	0	25	25																				
+Runeword58	Hunger		1	swor	knif	axe	spea						r08	r15					res-pois	0	25	25																				
+Runeword59	Ice		1	swor	knif	axe	spea						r07	r15	r16	r04			res-pois	0	25	25																				
+Runeword60	Infinity		1	staf									r01	r01	r12	r07			res-pois	0	25	25																				
+Runeword61	Innocence		1	scep									r06	r22					res-pois	0	25	25																				
+Runeword62	Insight		1	helm									r01	r04	r19				res-pois	0	25	25																				
+Runeword63	Jealousy		1	weap									r15	r16	r09	r20			res-pois	0	25	25																				
+Runeword64	Judgment		1	mele									r20	r09	r07	r01	r11		res-pois	0	25	25																				
+Runeword65	King's Grace		1	swor	scep								r04	r02	r05				res-pois	0	25	25																				
+Runeword66	Kingslayer		1	swor	axe								r23	r09	r25				res-pois	0	25	25																				
+Runeword67	Knight's Vigil		1	mele									r08	r04	r05	r17	r01		res-pois	0	25	25																				
+Runeword68	Thirst for Knowledge		1	helm									r09	r20					res-pois	0	25	25																				
+Runeword69	Last Wish		1	shld									r12	r10	r08	r06			res-pois	0	25	25																				
+Runeword70	Law		1	shld									r22	r08	r19	r01			res-pois	0	25	25																				
+Runeword71	Lawbringer		1	mele									r22	r20	r30				res-pois	0	25	25																				
+Runeword72	Leaf		1	staf									r02	r06					res-pois	0	25	25																				
+Runeword73	Lightning		1	mele									r16	r15	r12	r01			res-pois	0	25	25																				
+Runeword74	Lionheart		1	tors									r09	r17	r16				res-pois	0	25	25																				
+Runeword75	Lore		1	helm									r11	r10					res-pois	0	25	25																				
+Runeword76	The Lovers		1	shld									r25	r19	r25	r29			res-pois	0	25	25																				
+Runeword77	Loyalty		1	shld									r04	r08	r22				res-pois	0	25	25																				
+Runeword78	Lust		1	mele									r12	r01	r09	r01	r28	r02	res-pois	0	25	25																				
+Runeword79	Madness		1	helm									r25	r27					res-pois	0	25	25																				
+Runeword80	Malice		1	mele									r03	r01	r04				res-pois	0	25	25																				
+Runeword81	Melody		1	miss									r10	r16	r05				res-pois	0	25	25																				
+Runeword82	Memory		1	staf									r31	r09	r04	r01			res-pois	0	25	25																				
+Runeword83	Mist		1	mele									r11	r08					res-pois	0	25	25																				
+Runeword84	Morning Dew		1	shld									r01	r26	r03				res-pois	0	25	25																				
+Runeword85	Mystery		1	staf									r12	r05	r20				res-pois	0	25	25																				
+Runeword86	Myth		1	staf									r27	r33	r15	r06			res-pois	0	25	25																				
+Runeword87	Nadir		1	helm									r01	r03					res-pois	0	25	25																				
+Runeword88	Nature's Kingdom		1	club									r22	r05	r22	r08			res-pois	0	25	25																				
+Runeword89	Nightfall		1	mele									r08	r06	r25	r11			res-pois	0	25	25																				
+Runeword90	Oath		1	scep									r16	r01	r04	r09			res-pois	0	25	25																				
+Runeword91	Obedience		1	tors									r16	r17					res-pois	0	25	25																				
+Runeword92	Oblivion		1	axe	hamm	mace							r31	r33	r01	r16	r15	r29	res-pois	0	25	25																				
+Runeword93	Obsession		1	mele									r01	r12	r06	r07			res-pois	0	25	25																				
+Runeword94	Passion		1	mele									r23	r03	r16				res-pois	0	25	25																				
+Runeword95	Patience		1	helm									r11	r12					res-pois	0	25	25																				
+Runeword96	Pattern		1	weap									r07	r09	r07	r03	r02		res-pois	0	25	25																				
+Runeword97	Peace		1	shld									r22	r06	r02	r20			res-pois	0	25	25																				
+Runeword98	Winter		1	mele									r01	r06	r01	r09	r05	r01	res-pois	0	25	25																				
+Runeword99	Penitence		1	mele									r10	r15	r06				res-pois	0	25	25																				
+Runeword100	Peril		1	weap									r19	r03					res-pois	0	25	25																				
+Runeword101	Pestilence		1	weap									r03	r18	r03	r12			res-pois	0	25	25																				
+Runeword102	Phoenix		1	mele									r11	r29	r09	r15			res-pois	0	25	25																				
+Runeword103	Piety		1	scep									r01	r30	r05				res-pois	0	25	25																				
+Runeword104	Pillar of Faith		1	scep									r21	r20	r06	r07	r06		res-pois	0	25	25																				
+Runeword105	Plague		1	knif	swor	spea							r21	r13					res-pois	0	25	25																				
+Runeword106	Praise		1	scep	mace								r26	r05					res-pois	0	25	25																				
+Runeword107	Prayer		1	scep									r12	r05	r13	r03			res-pois	0	25	25																				
+Runeword108	Pride		1	mele									r14	r19	r05				res-pois	0	25	25																				
+Runeword109	Principle		1	mele									r33	r04	r23				res-pois	0	25	25																				
+Runeword110	Prowess in Battle		1	weap									r13	r08					res-pois	0	25	25																				
+Runeword111	Prudence		1	tors									r23	r03					res-pois	0	25	25																				
+Runeword112	Punishment		1	mele									r02	r04	r08	r23			res-pois	0	25	25																				
+Runeword113	Purity		1	mele									r03	r11	r27	r09	r18		res-pois	0	25	25																				
+Runeword114	Question		1	staf									r12	r01	r06				res-pois	0	25	25																				
+Runeword115	Radiance		1	helm									r05	r03	r07				res-pois	0	25	25																				
+Runeword116	Rain		1	club									r32	r06					res-pois	0	25	25																				
+Runeword117	Reason		1	helm									r11	r26	r20				res-pois	0	25	25																				
+Runeword118	Red		1	weap									r13	r09	r16				res-pois	0	25	25																				
+Runeword119	Rhyme		1	shld									r09	r12					res-pois	0	25	25																				
+Runeword120	Rift		1	axe									r02	r03	r09	r02	r18	r06	res-pois	0	25	25																				
+Runeword121	Sanctuary		1	shld									r18	r03	r08	r10			res-pois	0	25	25																				
+Runeword122	Serendipity		1	club	mace	scep							r06	r19					res-pois	0	25	25																				
+Runeword123	Shadow		1	h2h									r28	r06	r08	r10			res-pois	0	25	25																				
+Runeword124	Shadow of Doubt		1	helm									r07	r11					res-pois	0	25	25																				
+Runeword125	Silence		1	weap									r17	r09	r19	r20	r16	r20	res-pois	0	25	25																				
+Runeword126	Siren's Song		1	mele									r28	r10	r07	r20			res-pois	0	25	25																				
+Runeword127	Smoke		1	tors									r15	r03					res-pois	0	25	25																				
+Runeword128	Sorrow		1	mele									r03	r04	r13	r25	r04		res-pois	0	25	25																				
+Runeword129	Spirit		1	weap									r23	r01	r01	r30	r13		res-pois	0	25	25																				
+Runeword130	Splendor		1	shld									r05	r17					res-pois	0	25	25																				
+Runeword131	Starlight		1	staf	swor								r20	r04	r03				res-pois	0	25	25																				
+Runeword132	Stealth		1	scep									r05	r01					res-pois	0	25	25																				
+Runeword133	Steel		1	swor	axe	mace							r04	r03					res-pois	0	25	25																				
+Runeword134	Still Water		1	mele									r01	r10					res-pois	0	25	25																				
+Runeword135	Sting		1	swor	knif								r04	r11	r17				res-pois	0	25	25																				
+Runeword136	Stone		1	mace	hamm	club							r08	r10	r01				res-pois	0	25	25																				
+Runeword137	Storm		1	axe	hamm								r01	r03	r15	r04	r03		res-pois	0	25	25																				
+Runeword138	Strength		1	mele									r09	r07					res-pois	0	25	25																				
+Runeword139	Tempest		1	weap									r05	r02	r08	r24			res-pois	0	25	25																				
+Runeword140	Temptation		1	helm									r01	r18					res-pois	0	25	25																				
+Runeword141	Terror		1	weap									r24	r06	r19	r01			res-pois	0	25	25																				
+Runeword142	Thirst		1	mele									r02	r09					res-pois	0	25	25																				
+Runeword143	Thought		1	helm									r13	r16					res-pois	0	25	25																				
+Runeword144	Thunder		1	hamm	mace	axe							r15	r24					res-pois	0	25	25																				
+Runeword145	Time		1	staf									r29	r25	r30	r04	r31	r18	res-pois	0	25	25																				
+Runeword146	Tradition		1	scep									r01	r09	r04	r08			res-pois	0	25	25																				
+Runeword147	Treachery		1	mele									r29	r18	r26				res-pois	0	25	25																				
+Runeword148	Trust		1	helm									r11	r02	r32				res-pois	0	25	25																				
+Runeword149	Truth		1	swor									r19	r22	r27	r26	r04	r17	res-pois	0	25	25																				
+Runeword150	Unbending Will		1	tors									r09	r32	r07	r07			res-pois	0	25	25																				
+Runeword151	Valor		1	mele									r04	r01	r28				res-pois	0	25	25																				
+Runeword152	Vengeance		1	weap									r06	r11	r01				res-pois	0	25	25																				
+Runeword153	Venom		1	weap									r09	r12	r23				res-pois	0	25	25																				
+Runeword154	Victory		1	mele									r07	r04	r02	r01			res-pois	0	25	25																				
+Runeword155	Voice		1	helm									r03	r06					res-pois	0	25	25																				
+Runeword156	Void		1	mele									r11	r01	r31	r08	r21		res-pois	0	25	25																				
+Runeword157	War		1	weap									r25	r11	r04	r03	r04		res-pois	0	25	25																				
+Runeword158	Water		1	mele									r05	r27	r33	r16			res-pois	0	25	25																				
+Runeword159	Wealth		1	tors									r07	r21	r01				res-pois	0	25	25																				
+Runeword160	Whisper		1	mele									r14	r03	r01				res-pois	0	25	25																				
+Runeword161	White		1	wand									r17	r06	r02				res-pois	0	25	25																				
+Runeword162	Wind		1	mele									r29	r01					res-pois	0	25	25																				
+Runeword163	Wings of Hope		1	mele									r10	r03	r17	r03	r08		res-pois	0	25	25																				
+Runeword164	Wisdom		1	staf									r08	r31	r08	r18	r01		res-pois	0	25	25																				
+Runeword165	Woe		1	mele									r03	r04	r06	r09	r14		res-pois	0	25	25																				
+Runeword166	Wonder		1	wand									r04	r12	r24				res-pois	0	25	25																				
+Runeword167	Wrath		1	mele									r08	r05	r28	r15	r01		res-pois	0	25	25																				
+Runeword168	Youth		1	tors									r08	r15	r03	r17	r21		res-pois	0	25	25																				
+Runeword169	Zephyr		1	miss									r07	r06					res-pois	0	25	25																				
