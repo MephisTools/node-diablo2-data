@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/louis030195/node-diablo2-data/issues"
   },
-  "homepage": "https://github.com/louis030195/node-diablo2-data#readme"
+  "homepage": "https://github.com/louis030195/node-diablo2-data#readme",
+  "dependencies": {
+    "csvjson": "^5.1.0"
+  }
 }
