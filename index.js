@@ -26,7 +26,19 @@ module.exports = function (diabloVersion) {
     skills: loadCsv(`${__dirname}/data/${diabloVersion}/skills.txt`, '\t'),
     objects: loadCsv(`${__dirname}/data/${diabloVersion}/objects.txt`, '\t'),
     itemProperties: loadCsv(`${__dirname}/data/${diabloVersion}/item_properties.txt`, '|', ['statName', 'saveBits', 'saveParamBits', 'saveAdd']),
-    itemData: loadCsv(`${__dirname}/data/${diabloVersion}/item_data.txt`, '|', ['name', 'code', 'classificationString', 'width', 'height', 'stackable', 'usable', 'throwable'])
+    itemData: loadCsv(`${__dirname}/data/${diabloVersion}/item_data.txt`, '|', ['name', 'code', 'classificationString', 'width', 'height', 'stackable', 'usable', 'throwable']),
+    itemTypes: loadCsv(`${__dirname}/data/${diabloVersion}/itemtypes.txt`, '\t'),
+    qualityItems: loadCsv(`${__dirname}/data/${diabloVersion}/qualityitems.txt`, '\t'),
+    uniqueItems: loadCsv(`${__dirname}/data/${diabloVersion}/uniqueitems.txt`, '\t'),
+    weapons: loadCsv(`${__dirname}/data/${diabloVersion}/weapons.txt`, '\t'),
+    superUniques: loadCsv(`${__dirname}/data/${diabloVersion}/superuniques.txt`, '\t'),
+    setItems: loadCsv(`${__dirname}/data/${diabloVersion}/setitems.txt`, '\t'),
+    runes: loadCsv(`${__dirname}/data/${diabloVersion}/setitems.txt`, '\t'),
+    misc: loadCsv(`${__dirname}/data/${diabloVersion}/misc.txt`, '\t'),
+    monStats: loadCsv(`${__dirname}/data/${diabloVersion}/monstats.txt`, '\t'),
+    missiles: loadCsv(`${__dirname}/data/${diabloVersion}/missiles.txt`, '\t'),
+    armor: loadCsv(`${__dirname}/data/${diabloVersion}/armor.txt`, '\t'),
+    gems: loadCsv(`${__dirname}/data/${diabloVersion}/gems.txt`, '\t')
   }
 
   return diabloDataToNode(diabloData)
