@@ -38,7 +38,8 @@ module.exports = function (diabloVersion) {
     monStats: loadCsv(`${__dirname}/data/${diabloVersion}/monstats.txt`, '\t'),
     missiles: loadCsv(`${__dirname}/data/${diabloVersion}/missiles.txt`, '\t'),
     armor: loadCsv(`${__dirname}/data/${diabloVersion}/armor.txt`, '\t'),
-    gems: loadCsv(`${__dirname}/data/${diabloVersion}/gems.txt`, '\t')
+    gems: loadCsv(`${__dirname}/data/${diabloVersion}/gems.txt`, '\t'),
+    belts: loadCsv(`${__dirname}/data/${diabloVersion}/belts.txt`, '\t')
   }
 
   return diabloDataToNode(diabloData)
