@@ -44,6 +44,10 @@ objects indexed by name
 
 array of objects
 
+### itemEnums
+
+enums for different item / container related classes
+
 ### itemPropertiesByName
 
 item properties indexed by name
