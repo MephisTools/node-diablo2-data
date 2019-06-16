@@ -1,3 +1,6 @@
+## 1.4.0
+* Implement inventory extension enum (pod only)
+
 ## 1.3.0
 * Add item enums (move from diablo2-protocol)
 
