@@ -1,3 +1,6 @@
+## 1.3.0
+* Add item enums (move from diablo2-protocol)
+
 ## 1.2.0
 * Add belts
 
