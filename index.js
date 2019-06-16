@@ -1,5 +1,4 @@
 const diabloDataToNode = require('./lib/loader')
-const itemEnums = require('./lib/item')
 const fs = require('fs')
 
 function loadCsv (path, propertiesDelimiter, customHeaders) {
@@ -20,6 +19,7 @@ function loadCsv (path, propertiesDelimiter, customHeaders) {
 }
 
 module.exports = function (diabloVersion) {
+  const itemEnums = require(`./data/${diabloVersion}/item`)
   const diabloData = {
     npcs: loadCsv(`${__dirname}/data/${diabloVersion}/monster_names.txt`, '\t', ['name']),
     areas: loadCsv(`${__dirname}/data/${diabloVersion}/areas.txt`, ',', ['name', 'id']),
