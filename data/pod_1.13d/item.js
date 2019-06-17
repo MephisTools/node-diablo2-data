@@ -54,8 +54,8 @@ const DirectoryType =
 const ContainerType =
 {
   unspecified: 0,
-  inventory: 2, // TOP is size 10x5 (POD extension)
-  inventory_bottom: 3, // bottom is size 10x4
+  inventory: 2, // TOP is size 10x9 (POD extension)
+  inventory_bottom: 3, // bottom is size 10x1 (just last line ...)
   trader_offer: 4,
   for_trade: 6,
   cube: 8,
