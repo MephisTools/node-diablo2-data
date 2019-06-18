@@ -1,3 +1,6 @@
+## 1.5.0
+* Add stash bottom item enum container
+
 ## 1.4.0
 * Implement inventory extension enum (pod only)
 
