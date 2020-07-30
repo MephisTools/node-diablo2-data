@@ -1,5 +1,5 @@
 ## 1.6.0
-* Add server responses enums
+* Add server responses enums 
 
 ## 1.5.0
 * Add stash bottom item enum container
