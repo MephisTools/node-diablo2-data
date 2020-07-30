@@ -168,4 +168,6 @@ belts indexed by name
 
 array of belts properties
 
+### responses
 
+responses code from the server with their matching string (meaning)

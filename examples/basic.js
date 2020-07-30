@@ -1,4 +1,4 @@
-const diabloData = require('.')('pod_1.13d')
+const diabloData = require('../index')('pod_1.13d')
 
 console.log(JSON.stringify(diabloData.skills[50]))
 console.log(JSON.stringify(diabloData.areas[101]))
@@ -9,3 +9,5 @@ console.log(JSON.stringify(diabloData.itemPropertiesByName['Maximum Damage']))
 console.log(JSON.stringify(diabloData.itemDataByName['Ring Mail']))
 console.log(JSON.stringify(diabloData.itemTypesByName['Amulet']))
 console.log(JSON.stringify(diabloData.uniqueItemsByName['Shako']))
+console.log(JSON.stringify(diabloData.responses))
+console.log(JSON.stringify(diabloData.responses.logon))

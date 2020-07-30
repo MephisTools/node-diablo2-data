@@ -1,6 +1,6 @@
 {
   "name": "diablo2-data",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Expose Diablo 2 data in NodeJS",
   "main": "index.js",
   "directories": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/louis030195/node-diablo2-data.git"
+    "url": "git+https://github.com/MephisTools/node-diablo2-data.git"
   },
   "author": "Louis Beaumont",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/louis030195/node-diablo2-data/issues"
+    "url": "https://github.com/MephisTools/node-diablo2-data/issues"
   },
-  "homepage": "https://github.com/louis030195/node-diablo2-data#readme",
+  "homepage": "https://github.com/MephisTools/node-diablo2-data#readme",
   "devDependencies": {
     "standard": "^12.0.1"
   }

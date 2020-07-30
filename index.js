@@ -20,12 +20,14 @@ function loadCsv (path, propertiesDelimiter, customHeaders) {
 
 module.exports = function (diabloVersion) {
   const itemEnums = require(`./data/${diabloVersion}/item`)
+  const responses = require(`./data/${diabloVersion}/responses`)
   const diabloData = {
     npcs: loadCsv(`${__dirname}/data/${diabloVersion}/monster_names.txt`, '\t', ['name']),
     areas: loadCsv(`${__dirname}/data/${diabloVersion}/areas.txt`, ',', ['name', 'id']),
     skills: loadCsv(`${__dirname}/data/${diabloVersion}/skills.txt`, '\t'),
     objects: loadCsv(`${__dirname}/data/${diabloVersion}/objects.txt`, '\t'),
     itemEnums: itemEnums,
+    responses: responses,
     itemProperties: loadCsv(`${__dirname}/data/${diabloVersion}/item_properties.txt`, '|', ['statName', 'saveBits', 'saveParamBits', 'saveAdd']),
     itemData: loadCsv(`${__dirname}/data/${diabloVersion}/item_data.txt`, '|', ['name', 'code', 'classificationString', 'width', 'height', 'stackable', 'usable', 'throwable']),
     itemTypes: loadCsv(`${__dirname}/data/${diabloVersion}/itemtypes.txt`, '\t'),
